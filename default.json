@@ -1,0 +1,5 @@
+{
+  "require_test_evidence": true,
+  "flag_destructive_changes": true,
+  "fail_on_severity": "BLOCKER"
+}
